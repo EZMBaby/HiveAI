@@ -1,0 +1,7 @@
+GOODBYE_PROMPT = "Verabschiede mich in einem Satz!"
+HELLO_PROMPT = "Grüße mich in einem Satz!"
+SEARCH_FILE_PROMPT = "Frage mich, wie die Datei heißt, die ich suche. 1 Satz. Gehe dabei nicht auf vorherige Dateien ein, die ich gesucht habe."
+FILE_FOUND_PROMPT = "Gib mir den Pfad der Datei und frag mich, ob du sie öffnen sollst. Dies sollte nicht länger als 3 Sätze sein."
+OPEN_FILE = "Sag mir, dass du die gesuchte jetzt Datei öffnest. Sag nichts darüber, dass du sie nicht öffnen kannst."
+NOT_OPEN_FILE = "Sag mir, dass du die gesuchte jetzt Datei nicht öffnest."
+WHICH_CITY_PROMPT = "Frag mich, welche Stadt ich meine."
